@@ -19,13 +19,21 @@ It simulates a real **Driver & Vehicles Licensing Department** system.
 - Event logging for tracking important actions.  
 
 ## 🚀 How to Run
-1. Clone this repo:
+1- Clone this repo:
    ```bash
    git clone https://github.com/Alaasayed256354/Driver_Vehicles_Licenses_Department_Project-.git
+
+2-Open the .sln file in Visual Studio.
+
+3-Restore NuGet packages.
+
+4-Run the project.
 
 ## 👨‍💻 Author
 **Alaa Elsayed**  
 📧 Email: alaasayed256354@gmail.com  
 
 🔗 GitHub: [Alaasayed256354](https://github.com/Alaasayed256354)
+
+
 
